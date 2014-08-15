@@ -21,7 +21,7 @@ package kankan.wheel.widget;
 
 /**
  * Range for visible items.
- */
+ */ 
 public class ItemsRange {
 	// First item number
 	private int first;

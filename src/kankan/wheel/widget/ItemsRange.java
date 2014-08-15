@@ -19,6 +19,8 @@
 
 package kankan.wheel.widget;
 
+test: put an error here
+
 /**
  * Range for visible items.
  */ 

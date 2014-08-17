@@ -19,7 +19,6 @@
 
 package kankan.wheel.widget;
 
-//TODO : test: added 2nd error
 
 /**
  * Range for visible items.

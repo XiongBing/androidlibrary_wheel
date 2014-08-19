@@ -28,6 +28,7 @@ package kankan.wheel.widget;
 //change 7
 //change 8
 //change 9
+//change 10 
 /**
  * Range for visible items.
  */ 

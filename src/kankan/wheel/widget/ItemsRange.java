@@ -19,6 +19,9 @@
 //added 3rd change in project2 lib submodule
 package kankan.wheel.widget;
 
+
+//change  1
+
 /**
  * Range for visible items.
  */ 
@@ -67,7 +70,7 @@ public class ItemsRange {
 	 * @return the count of items
 	 */
 	public int getCount() {
-		return count;
+		return count;    
 	}
 	
 	/**

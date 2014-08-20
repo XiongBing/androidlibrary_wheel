@@ -23,6 +23,9 @@ package kankan.wheel.widget;
 //change  1
 //change  2 (QYM)
 
+//change 3
+
+
 /**
  * Range for visible items.
  */ 
